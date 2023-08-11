@@ -1,0 +1,18 @@
+{
+  "name": "ProfessionalJavaScript",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript de Platzi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": [
+    "Platzi"
+  ],
+  "author": "Cesar Mauricio Torres Arias <cesarmta87@gmail.com>",
+  "license": "MIT"
+}
