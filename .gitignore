@@ -1,4 +1,8 @@
+node_modules
+.cache
+dist
 package-lock.json
 assets/BigBuckBunny.mp4
 assets/BigBuckBunny.mp4:Zone.Identifier
-node_modules
+package.json
+
